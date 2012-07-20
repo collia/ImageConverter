@@ -1,0 +1,1 @@
+java -Xms50000000 -Xmx500000000 collia.ImageConverter.MainWindow %1 %2 %3
